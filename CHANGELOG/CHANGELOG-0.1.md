@@ -1,26 +1,13 @@
-<!-- BEGIN MUNGE: GENERATED_TOC -->
-- [v0.1.0](#v010)
-  - [Downloads for v0.1.0](#downloads-for-v010)
-    - [Binaries](#binaries)
-  - [Changelog](#changelog)
-    - [Other notable changes](#other-notable-changes)
-<!-- END MUNGE: GENERATED_TOC -->
+- [v0.1.0](#v010-2020-12-19)
+  - [Features](#features)
 
-<!-- NEW RELEASE NOTES ENTRY -->
-## Downloads for v0.1.0
+# Release v0.1.0 / 2020-12-19
 
-### Binaries
+🎉🎉🎉 First Release!
 
-filename | md5
--------- | -----------
-[superedge-linux-amd64.tar.gz](https://github.com/superedge/superedge/releases/download/v0.1.0/edgeadm-linux-amd64-v0.1.0.tgz) | `c65ed328e437360aecb0752cd80421e5`
-[superedge-linux-arm.tar.gz](https://github.com/superedge/superedge/releases/download/v0.1.0/edgeadm-linux-arm64-v0.1.0.tgz) | `b3ae69b7cad8fded74f8cb2e9d7fbe25`
+This is the first release of SuperEdge, which includes a series of features to transform a Kubernetes cluster to an edge-native container management system for edge computing.
 
-## SuperEdge v0.1.0 Release Notes
-
-### 0.1.0 What's New
-
-This is the first release of SuperEdge, which includes a series of enhancements for transforming Kubernetes cluster to an edge-enabled cluster.
+## Features
 
 **Tunnel**
 
@@ -48,4 +35,4 @@ This is the first release of SuperEdge, which includes a series of enhancements 
 
 **EdgeAdm**
 
-* EdgeAdm helps users to deploy SuperEdge to native Kubernetes in 1-click.
+* EdgeAdm is a command-line tool to help users to deploy SuperEdge to native Kubernetes in 1-click.
